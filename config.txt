@@ -1,0 +1,6 @@
+token=NDgwNTEyMTE4NDU0NDg1MDE0.Dtj8ow.BD2fdWbyoKCcu_Mkg415Xf_1ohU
+owner=490803489765720064
+prefix= 3
+game= Type 3help
+stayinchannel=true
+songinstatus=true
